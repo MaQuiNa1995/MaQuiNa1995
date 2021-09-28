@@ -1,10 +1,11 @@
 # Bienvenidos a mi Github 👋
 
-- Sobre mi
+- 💬 Sobre mi
 
 Soy un desarrollador con 5 años de experiencia empresarial en el ámbito de la programación y mas de 15 años en el ámbito de la programación doméstica
 
-- 🌱 Actualmente estoy aprendiendo Golang
+- 🌱 Actualmente estoy aprendiendo activamente Golang
+
 - 💬 Que lenguajes uso:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaQuiNa1995&layout=compact&hide=css,html)
