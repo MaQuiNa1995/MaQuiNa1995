@@ -24,15 +24,11 @@ Soy un desarrollador con 5 años de experiencia empresarial en el ámbito de la 
 
 - 💬 Sobre lo que leo
 
-<a href="https://app.daily.dev/MaQuiNa1995"><img src="https://api.daily.dev/devcards/0d74cff9368f4faba04bb9f3a081e9a2.png?r=jij" width="400" alt="MaQuina1995's Dev Card"/></a>
+<a href="https://app.daily.dev/MaQuiNa1995"><img src="https://api.daily.dev/devcards/0d74cff9368f4faba04bb9f3a081e9a2.png?r=jij" width="300" alt="MaQuina1995's Dev Card"/></a>
 
 - 💬 Actidad estos últimos 7 días
 
 <img src="https://wakatime.com/share/@MaQuiNa1995/23d5ff35-be57-4b5c-90b3-716f47c04a07.png" width="500">
-
-- 💬 Lenguajes usados estos últimos 7 días
-
-<img src="https://wakatime.com/share/@MaQuiNa1995/b772099a-90b5-4dec-8215-2fe47950da69.png" width="500">
 
 - ❤️ Estadísticas sobre este Github
 
