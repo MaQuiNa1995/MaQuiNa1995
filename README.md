@@ -28,4 +28,6 @@ Soy un desarrollador con 5 años de experiencia empresarial en el ámbito de la 
 
 - ❤️ Estadísticas sobre este Github
 
+![Visitantes Total- Hoy](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FMaQuiNa1995&label=Visitantes:&countColor=%23263759)
+
 ![MaQuiNa1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaQuiNa1995&show_icons=true&theme=radical&hide=prs,issues,contribs)
