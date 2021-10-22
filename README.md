@@ -22,10 +22,6 @@ Soy un desarrollador con 5 años de experiencia empresarial en el ámbito de la 
 
 <a href="https://app.daily.dev/MaQuiNa1995"><img src="https://api.daily.dev/devcards/0d74cff9368f4faba04bb9f3a081e9a2.png?r=jij" width="300" alt="MaQuina1995's Dev Card"/></a>
 
-- 💬 Actidad estos últimos 7 días
-
-<img src="https://wakatime.com/share/@MaQuiNa1995/23d5ff35-be57-4b5c-90b3-716f47c04a07.png" width="500">
-
 - ❤️ Estadísticas sobre este Github
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMaQuiNa1995&label=Visitantes_Totales:&countColor=%23263759)
