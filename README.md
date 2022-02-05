@@ -2,10 +2,6 @@
 
 - 🌱 Learning Golang And Python
 
-- 💬 What Programming Languages i use ?
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaQuiNa1995&layout=compact&hide=css,html)
-
 - 📫 Contact me
    * Discord: MaQui1995#9916 
    * Gmail: maquina1995@gmail.com
@@ -27,7 +23,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=MaQuiNa1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaQuiNa1995&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaQuiNa1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaQuiNa1995&theme=dark&layout=compact&hide=css,html)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaQuiNa1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
