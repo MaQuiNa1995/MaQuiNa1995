@@ -2,8 +2,9 @@
    * Discord: MaQui1995#9916 
    * Gmail: maquina1995@gmail.com
    * Linkedin: https://www.linkedin.com/in/christian-mu%C3%B1oz-ason-7a3604b4/
-   * StackOverflow: https://stackoverflow.com/users/7707422/maquina1995
-   * Spanish StackOverflow: https://es.stackoverflow.com/users/32964/maquina1995
+   * StackOverflow (English and Spanish):
+
+      <a href="https://stackexchange.com/users/10455024"><img src="https://stackexchange.com/users/flair/10455024.png?theme=dark" width="208" height="58" alt="perfil para MaQuiNa1995 en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="perfil para MaQuiNa1995 en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
 
 # 📈 Open Source:
 
