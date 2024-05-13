@@ -17,8 +17,3 @@
 # 📊 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaQuiNa1995&theme=dark&layout=compact&hide=css,html)
-
-# 🏆 Programing hours in free time recently
-<a href="https://app.daily.dev/MaQuiNa1995"><img src="https://wakatime.com/share/@MaQuiNa1995/1a8f4a9c-6f4c-482d-8bcb-425a92a89d8f.svg?r=jij" width="800" alt="MaQuina1995's Dev Card"/></a>
-
-
